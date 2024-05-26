@@ -1,0 +1,170 @@
+[
+  {
+    "Kode MK": "USB0913",
+    "Matakuliah": "Wawasan Sosial Budaya",
+    "SKS": 3,
+    "Nilai": "A"
+  },
+  {
+    "Kode MK": "USB1112",
+    "Matakuliah": "Kewirausahaan",
+    "SKS": 2,
+    "Nilai": "A"
+  },
+  {
+    "Kode MK": "INF031219",
+    "Matakuliah": "Pengantar Sistem dan Teknologi Informasi",
+    "SKS": 2,
+    "Nilai": "A"
+  },
+  {
+    "Kode MK": "USB0612",
+    "Matakuliah": "Bahasa Indonesia",
+    "SKS": 2,
+    "Nilai": "A"
+  },
+  {
+    "Kode MK": "INF011219",
+    "Matakuliah": "Matematika Dasar",
+    "SKS": 2,
+    "Nilai": "A"
+  },
+  {
+    "Kode MK": "USB0812",
+    "Matakuliah": "Pendidikan Kewarganegaraan",
+    "SKS": 2,
+    "Nilai": "A"
+  },
+  {
+    "Kode MK": "USB0712",
+    "Matakuliah": "Pendidikan Pancasila",
+    "SKS": 2,
+    "Nilai": "A"
+  },
+  {
+    "Kode MK": "USB0112",
+    "Matakuliah": "Pendidikan Agama Islam",
+    "SKS": 2,
+    "Nilai": "A"
+  },
+  {
+    "Kode MK": "INF021319",
+    "Matakuliah": "Dasar Dasar Pemrograman",
+    "SKS": 3,
+    "Nilai": "B+"
+  },
+  {
+    "Kode MK": "USB1212",
+    "Matakuliah": "BAHASA INGGRIS",
+    "SKS": 2,
+    "Nilai": "B+"
+  },
+  {
+    "Kode MK": "INF052319",
+    "Matakuliah": "Matematika Diskrit",
+    "SKS": 3,
+    "Nilai": "A"
+  },
+  {
+    "Kode MK": "INF092219",
+    "Matakuliah": "Fisika",
+    "SKS": 2,
+    "Nilai": "A"
+  },
+  {
+    "Kode MK": "INF082319",
+    "Matakuliah": "Algoritma dan Struktur Data",
+    "SKS": 3,
+    "Nilai": "A"
+  },
+  {
+    "Kode MK": "INF072219",
+    "Matakuliah": "Sistem Digital",
+    "SKS": 2,
+    "Nilai": "A"
+  },
+  {
+    "Kode MK": "USB1013",
+    "Matakuliah": "Wawasan Keilmuan Teknologi dan Lingkungan",
+    "SKS": 3,
+    "Nilai": "B"
+  },
+  {
+    "Kode MK": "INF062219",
+    "Matakuliah": "Sistem Operasi",
+    "SKS": 2,
+    "Nilai": "A"
+  },
+  {
+    "Kode MK": "USB1311",
+    "Matakuliah": "KOKURIKULER",
+    "SKS": 1,
+    "Nilai": "A-"
+  },
+  {
+    "Kode MK": "INF042219",
+    "Matakuliah": "Elektronika Komputer",
+    "SKS": 2,
+    "Nilai": "A-"
+  },
+  {
+    "Kode MK": "INF295219",
+    "Matakuliah": "Mikrokontroller",
+    "SKS": 2,
+    "Nilai": "A"
+  },
+  {
+    "Kode MK": "INF103219",
+    "Matakuliah": "Aljabar Linear",
+    "SKS": 2,
+    "Nilai": "A"
+  },
+  {
+    "Kode MK": "INF123319",
+    "Matakuliah": "Basis Data I",
+    "SKS": 3,
+    "Nilai": "A"
+  },
+  {
+    "Kode MK": "INF113319",
+    "Matakuliah": "Pemrograman Web I",
+    "SKS": 3,
+    "Nilai": "A-"
+  },
+  {
+    "Kode MK": "INF133319",
+    "Matakuliah": "Pemrograman Berorientasi Objek",
+    "SKS": 3,
+    "Nilai": "A"
+  },
+  {
+    "Kode MK": "INF143219",
+    "Matakuliah": "Arsitektur dan Organisasi Komputer",
+    "SKS": 2,
+    "Nilai": "A"
+  },
+  {
+    "Kode MK": "INF153219",
+    "Matakuliah": "Bahasa Inggris II",
+    "SKS": 2,
+    "Nilai": "A"
+  },
+  {
+    "Kode MK": "INF163219",
+    "Matakuliah": "Interaksi Manusia dan Komputer",
+    "SKS": 2,
+    "Nilai": "B+"
+  },
+  {
+    "Kode MK": "INF183219",
+    "Matakuliah": "Aplikasi Komputer",
+    "SKS": 2,
+    "Nilai": "A"
+  },
+  {
+    "Kode MK": "INF173319",
+    "Matakuliah": "Pengembangan Multimedia",
+    "SKS": 3,
+    "Nilai": "A"
+  }
+]
